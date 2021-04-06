@@ -1,0 +1,14 @@
+.list-group-item {
+    cursor: pointer;
+}
+
+.item-list a {
+    text-decoration: none;
+    color: white;
+}
+
+.spinner-item {
+    display: flex;
+    align-items: center;
+    margin: auto;
+}

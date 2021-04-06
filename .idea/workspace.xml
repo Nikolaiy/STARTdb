@@ -1,9 +1,153 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48a7ae71-e8a3-4f43-8441-15a1cc19050d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/app/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/app/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/app/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/error-boundry/error-boundry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/error-boundry/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/error-button/error-button.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/error-button/error-button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/error-button/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/error-indication/error-indication.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/error-indication/error-indication.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/error-indication/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/header/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/header/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/header/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/hoc-helper/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/hoc-helper/with-children-list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/hoc-helper/with-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/hoc-helper/with-swapi-service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/item-detail/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/item-detail/item-detail.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/item-detail/item-detail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/item-list/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/item-list/item-list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/item-list/item-list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/pages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/pages/people-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/pages/planet-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/pages/startship-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/random-planet/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/random-planet/planet-view.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/random-planet/random-planet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/random-planet/random-planet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/record/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/record/record.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/row/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/row/row.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/spinner/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/spinner/spinner.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/spinner/spinner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/sw-components/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/sw-components/item-lists.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/sw-components/people-details.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/sw-components/planet-details.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/sw-components/starship-details.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/swapi-service-context/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/swapi-service-context/swapi-service-context.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swapi-service/dummy-swapi-service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swapi-service/swapi-service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bdTzm6QmXYNJzNCiOvxmiOV3gt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path" value="node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Win10Pro\Education\Proect\StarDB\public" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Win10Pro\Education\Proect\StarDB\src\components\pages" />
+      <recent name="C:\Users\Win10Pro\Education\Proect\StarDB\src\components\sw-components" />
+      <recent name="C:\Users\Win10Pro\Education\Proect\StarDB\src\components\error-indication" />
+      <recent name="C:\Users\Win10Pro\Education\Proect\StarDB\src\components\starship-detail" />
+      <recent name="C:\Users\Win10Pro\Education\Proect\StarDB\src\components\item-list" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48a7ae71-e8a3-4f43-8441-15a1cc19050d" name="Default Changelist" comment="" />
+      <created>1588961748625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588961748625</updated>
+      <workItem from="1588961750232" duration="53286000" />
+      <workItem from="1589183787080" duration="4426000" />
+      <workItem from="1589652027509" duration="47620000" />
+      <workItem from="1590222404343" duration="23588000" />
+      <workItem from="1595169194880" duration="791000" />
+      <workItem from="1601231582612" duration="245000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="777" y="392" key="FileChooserDialogImpl" timestamp="1589740602690">
+      <screen x="88" y="0" width="1832" height="1080" />
+    </state>
+    <state x="777" y="392" key="FileChooserDialogImpl/88.0.1832.1080@88.0.1832.1080" timestamp="1589740602690" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1589045697256">
+      <screen x="88" y="0" width="1832" height="1080" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/88.0.1832.1080@88.0.1832.1080" timestamp="1589045697256" />
+    <state x="660" y="250" key="run.anything.popup" timestamp="1589897279348">
+      <screen x="88" y="0" width="1832" height="1080" />
+    </state>
+    <state x="660" y="250" key="run.anything.popup/88.0.1832.1080@88.0.1832.1080" timestamp="1589897279348" />
+    <state x="667" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1590568101932">
+      <screen x="88" y="0" width="1832" height="1080" />
+    </state>
+    <state x="667" y="235" width="672" height="678" key="search.everywhere.popup/88.0.1832.1080@88.0.1832.1080" timestamp="1590568101932" />
   </component>
 </project>

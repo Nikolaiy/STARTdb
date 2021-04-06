@@ -1,0 +1,9 @@
+.error {
+    margin: auto;
+    color: #c87f0a;
+    text-align: center;
+}
+
+.error img {
+    margin-bottom: 10px;
+}
